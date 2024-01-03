@@ -1,17 +1,16 @@
 <!--lint disable awesome-contributing -->
 
-<! -- omit in toc -->
+<!-- omit in toc -->
 # Awesome Software Engineering History  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An Awesome List of books, videos, and other resources for learning about the history of software engineering
 
+<!-- omit in toc -->
 ## Contents
 
-- [Awesome Software Engineering History  ](#awesome-software-engineering-history--)
-  - [Contents](#contents)
-  - [Section](#section)
-  - [Another Section](#another-section)
-    - [Subsection](#subsection)
+- [Section](#section)
+- [Another Section](#another-section)
+  - [Subsection](#subsection)
 
 
 ## Section
