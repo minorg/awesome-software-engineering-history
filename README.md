@@ -1,3 +1,6 @@
+<!--lint disable awesome-contributing -->
+
+<! -- omit in toc -->
 # Awesome Software Engineering History  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An Awesome List of books, videos, and other resources for learning about the history of software engineering
