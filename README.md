@@ -11,7 +11,6 @@ An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and
 
 - [Articles](#articles)
 - [Books](#books)
-- [Organizations](#organizations)
 - [Videos](#videos)
 - [Websites](#websites)
 - [Other lists](#other-lists)
@@ -21,7 +20,6 @@ An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and
 
 - [Grady Booch: "The History of Software Engineering"](https://ieeexplore.ieee.org/document/8474489)
   - [IEEE Software Volume 35, Issue 5: _Software Engineering: the 50th Anniversary_](https://www.computer.org/csdl/magazine/so/2018/05)
-- [Martin Campbell-Kelly: "The History of the History of Software"](https://ieeexplore.ieee.org/document/4407444)
 - [Paul Graham: "The Roots of Lisp"](https://www.paulgraham.com/rootsoflisp.html)
 - [Wikipedia: "History of programming languages"](https://en.wikipedia.org/wiki/History_of_programming_languages)
 - [Wikipedia: "History of software engineering"](https://en.wikipedia.org/wiki/History_of_software_engineering)
@@ -42,11 +40,6 @@ An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and
 - [Charles Petzold: _Code: The Hidden Language of Computer Hardware and Software_](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)
 - [Eric S. Raymond: _The Art of Unix Programming_](https://en.wikipedia.org/wiki/The_Art_of_Unix_Programming)
 - [Peter Seibel: _Coders at Work: Reflections on the Craft of Programming_](https://en.wikipedia.org/wiki/Coders_at_Work)
-
-## Organizations
-
-- [Association for Computing Machinery (ACM) History Committee](https://history.acm.org/)
-- [History of Programming Languages Conference](https://en.wikipedia.org/wiki/History_of_Programming_Languages_(conference))
 
 ## Videos
 
