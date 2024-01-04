@@ -19,8 +19,10 @@ An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and
 ## Articles
 
 - [Grady Booch: "The History of Software Engineering"](https://ieeexplore.ieee.org/document/8474489)
-  - [IEEE Software Volume 35, Issue 5: _Software Engineering: the 50th Anniversary_](https://www.computer.org/csdl/magazine/so/2018/05)
+  - [IEEE _Software_ Volume 35, Issue 5: _Software Engineering: the 50th Anniversary_](https://www.computer.org/csdl/magazine/so/2018/05)
 - [Paul Graham: "The Roots of Lisp"](https://www.paulgraham.com/rootsoflisp.html)
+- [Michael Mahoney: "Finding a History for Software Engineering"](https://ieeexplore.ieee.org/document/1278847)
+  - [IEEE _Annals of the History of Computing_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=85)
 - [Wikipedia: "History of programming languages"](https://en.wikipedia.org/wiki/History_of_programming_languages)
 - [Wikipedia: "History of software engineering"](https://en.wikipedia.org/wiki/History_of_software_engineering)
 - [Niklaus Wirth: "A Brief History of Software Engineering"](https://ieeexplore.ieee.org/document/4617912)
@@ -31,12 +33,14 @@ An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and
 - [Kurt W. Beyer: _Grace Hopper and the Invention of the Information Age_](https://mitpress.mit.edu/9780262517263/grace-hopper-and-the-invention-of-the-information-age/)
 - [Federico Biancuzzi: _Masterminds of Programming: Conversations with the Creators of Major Programming Languages_](https://www.oreilly.com/library/view/masterminds-of-programming/9780596801670/)
 - [Fred Brooks: _The Mythical Man Month_](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+- [Manfred Broy and Ernst Denert (editors): _Software Pioneers: Contributions to Software Engineering_](https://link.springer.com/book/10.1007/978-3-642-59412-0)
 - [Martin Campbell-Kelly: _From Airline Reservations to Sonic the Hedgehog: A History of the Software Industry_](https://mitpress.mit.edu/9780262532624/from-airline-reservations-to-sonic-the-hedgehog/)
-  - [MIT Press History of Computing series](https://mitpress.mit.edu/series/history-of-computing/)
+  - [MIT Press _History of Computing_ series](https://mitpress.mit.edu/series/history-of-computing/)
 - [Adele Goldberg and David Robson: _Smalltalk-80: the Language and Its Implementation_](https://dl.acm.org/doi/book/10.5555/273)
 - [History of Programming Languages (HOPL) Conference Proceedings](https://dl.acm.org/conference/hopl)
 - [Donald Knuth: _The Art of Computer Programming_](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - [Harry R. Lewis (ed.): _Ideas That Created the Future: Classic Papers of Computer Science_](https://mitpress.mit.edu/9780262045308/)
+- [The NATO Software Engineering Conferences](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/)
 - [Charles Petzold: _Code: The Hidden Language of Computer Hardware and Software_](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)
 - [Eric S. Raymond: _The Art of Unix Programming_](https://en.wikipedia.org/wiki/The_Art_of_Unix_Programming)
 - [Peter Seibel: _Coders at Work: Reflections on the Craft of Programming_](https://en.wikipedia.org/wiki/Coders_at_Work)
@@ -58,6 +62,7 @@ An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and
 ## Websites
 
 - [E.W. Dijkstra Archive](https://www.cs.utexas.edu/~EWD/)
+- [History of Ada](https://www.adahome.com/History/)
 - [Guido van Rossum: The History of Python](https://python-history.blogspot.com/)
 - [Online Historical Encyclopaedia of Programming Languages](http://hopl.info/)
 
