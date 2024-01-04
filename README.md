@@ -20,7 +20,7 @@ An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and
 ## Articles
 
 - [Grady Booch: "The History of Software Engineering"](https://ieeexplore.ieee.org/document/8474489)
- : [IEEE Software Volume 35, Issue 5: _Software Engineering: the 50th Anniversary_](https://www.computer.org/csdl/magazine/so/2018/05)
+  - [IEEE Software Volume 35, Issue 5: _Software Engineering: the 50th Anniversary_](https://www.computer.org/csdl/magazine/so/2018/05)
 - [Martin Campbell-Kelly: "The History of the History of Software"](https://ieeexplore.ieee.org/document/4407444)
 - [Paul Graham: "The Roots of Lisp"](https://www.paulgraham.com/rootsoflisp.html)
 - [Wikipedia: "History of programming languages"](https://en.wikipedia.org/wiki/History_of_programming_languages)
@@ -34,7 +34,7 @@ An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and
 - [Federico Biancuzzi: _Masterminds of Programming: Conversations with the Creators of Major Programming Languages_](https://www.oreilly.com/library/view/masterminds-of-programming/9780596801670/)
 - [Fred Brooks: _The Mythical Man Month_](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 - [Martin Campbell-Kelly: _From Airline Reservations to Sonic the Hedgehog: A History of the Software Industry_](https://mitpress.mit.edu/9780262532624/from-airline-reservations-to-sonic-the-hedgehog/)
- : [MIT Press History of Computing series](https://mitpress.mit.edu/series/history-of-computing/)
+  - [MIT Press History of Computing series](https://mitpress.mit.edu/series/history-of-computing/)
 - [Adele Goldberg and David Robson: _Smalltalk-80: the Language and Its Implementation_](https://dl.acm.org/doi/book/10.5555/273)
 - [History of Programming Languages (HOPL) Conference Proceedings](https://dl.acm.org/conference/hopl)
 - [Donald Knuth: _The Art of Computer Programming_](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
@@ -57,8 +57,6 @@ An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and
 - [Donald Knuth: "Let's Not Dumb Down the History of Computer Science"](https://www.youtube.com/watch?v=gAXdDEQveKw)
 - [Ted Nelson: "Computers for Cynics" video series](https://www.youtube.com/watch?v=KdnGPQaICjk&list=PLTI2Kz0V2OFlgbkROVmzkfQRW2FrX2KfR)
 - [Turing lectures](https://amturing.acm.org/lectures.cfm)
- : [My favorite lectures](https://minorgordon.net/blog/2022/01/12/turing-lectures.html)
- : [My favorite excerpts](https://minorgordon.net/blog/2022/01/12/lessons-from-the-turing-lectures.html)
 - [Bret Victor: "The Future of Programming"](https://vimeo.com/71278954)
 - [Software Engineering Radio Episode 167: The History of JUnit and the Future of Testing with Kent Beck](https://www.se-radio.net/2010/09/episode-167-the-history-of-junit-and-the-future-of-testing-with-kent-beck/)
 - [SOSP History Day](https://sigops.org/s/conferences/sosp/2015/history/)
