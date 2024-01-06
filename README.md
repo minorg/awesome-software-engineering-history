@@ -5,7 +5,7 @@
 
 An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and other resources for learning about the history of software engineering.
 
-The list is geared towards new and practicing software engineers, rather than professional historians.
+The list is geared towards new and practicing software engineers, rather than professional historians. There are a few primary sources, but most are secondary and tertiary.
 
 Items in **bold** are good starting points.
 
