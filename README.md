@@ -5,7 +5,7 @@
 
 An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and other resources for learning about the history of software engineering.
 
-The list is geared towards new and practicing software engineers, rather than professional historians. There are a few primary sources, but most are secondary and tertiary.
+The list is geared towards new and practicing software engineers, rather than professional historians. The sources are secondary and tertiary rather than primary, "history" rather than "historical".
 
 Items in **bold** are good starting points.
 
@@ -33,17 +33,15 @@ Items in **bold** are good starting points.
 
 ## Books
 
-- [J.W. Backus, et al.: _Report on the Algorithmic Language ALGOL 60_](https://dl.acm.org/doi/10.1145/367236.367262)
 - [Kurt W. Beyer: _Grace Hopper and the Invention of the Information Age_](https://mitpress.mit.edu/9780262517263/grace-hopper-and-the-invention-of-the-information-age/)
 - [Federico Biancuzzi: _Masterminds of Programming: Conversations with the Creators of Major Programming Languages_](https://www.oreilly.com/library/view/masterminds-of-programming/9780596801670/)
 - [Fred Brooks: _The Mythical Man Month_](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 - [Manfred Broy and Ernst Denert (editors): _Software Pioneers: Contributions to Software Engineering_](https://link.springer.com/book/10.1007/978-3-642-59412-0)
 - [**Martin Campbell-Kelly: _From Airline Reservations to Sonic the Hedgehog: A History of the Software Industry_**](https://mitpress.mit.edu/9780262532624/from-airline-reservations-to-sonic-the-hedgehog/)
   - [MIT Press _History of Computing_ series](https://mitpress.mit.edu/series/history-of-computing/)
-- [Adele Goldberg and David Robson: _Smalltalk-80: the Language and Its Implementation_](https://dl.acm.org/doi/book/10.5555/273)
 - [History of Programming Languages (HOPL) Conference Proceedings](https://dl.acm.org/conference/hopl)
 - [Christopher Kelty: _Two Bits: The Cultural Significance of Free Software_](https://www.dukeupress.edu/two-bits)
-- [Donald Knuth: _The Art of Computer Programming_](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
+- [Glenn Krasner: _Bits of History, Words of Advice_](https://dl.acm.org/doi/10.5555/226)
 - [Harry R. Lewis (ed.): _Ideas That Created the Future: Classic Papers of Computer Science_](https://mitpress.mit.edu/9780262045308/)
 - [Lev Manovich: _Software Takes Command_](https://www.bloomsbury.com/us/software-takes-command-9781623567453/)
 - [The NATO Software Engineering Conferences](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/)
