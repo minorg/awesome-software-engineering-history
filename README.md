@@ -1,4 +1,5 @@
-<!--lint disable awesome-contributing -->
+<!-- lint disable awesome-contributing -->
+<!-- lint disable double-link -->
 
 <!-- omit in toc -->
 # Awesome Software Engineering History  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
