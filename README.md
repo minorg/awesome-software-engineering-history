@@ -5,7 +5,7 @@
 
 An [Awesome List](https://github.com/sindresorhus/awesome) of books, videos, and other resources for learning about the history of software engineering.
 
-The list is geared towards new and practicing software engineers, rather than professional historians. The sources are secondary and tertiary rather than primary, "history" rather than "historical".
+The list is geared towards new and practicing software engineers, rather than professional historians. Most of the sources are secondary and tertiary rather than primary, "history" rather than "historical". For lists of seminal papers and other primary sources, see the [Other lists section](#other-lists).
 
 Items in **bold** are good starting points.
 
@@ -44,7 +44,6 @@ Items in **bold** are good starting points.
 - [Glenn Krasner: _Bits of History, Words of Advice_](https://dl.acm.org/doi/10.5555/226)
 - [Harry R. Lewis (ed.): _Ideas That Created the Future: Classic Papers of Computer Science_](https://mitpress.mit.edu/9780262045308/)
 - [Lev Manovich: _Software Takes Command_](https://www.bloomsbury.com/us/software-takes-command-9781623567453/)
-- [The NATO Software Engineering Conferences](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/)
 - [**Charles Petzold: _Code: The Hidden Language of Computer Hardware and Software_**](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)
 - [Eric S. Raymond: _The Art of Unix Programming_](https://en.wikipedia.org/wiki/The_Art_of_Unix_Programming)
 - [Peter Seibel: _Coders at Work: Reflections on the Craft of Programming_](https://en.wikipedia.org/wiki/Coders_at_Work)
@@ -65,7 +64,6 @@ Items in **bold** are good starting points.
 
 ## Websites
 
-- [E.W. Dijkstra Archive](https://www.cs.utexas.edu/~EWD/)
 - [History of Ada](https://www.adahome.com/History/)
 - [Guido van Rossum: The History of Python](https://python-history.blogspot.com/)
 - [Online Historical Encyclopaedia of Programming Languages](http://hopl.info/)
