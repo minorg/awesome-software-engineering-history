@@ -25,6 +25,7 @@ Items in **bold** are good starting points.
 
 - [Grady Booch: "The History of Software Engineering"](https://ieeexplore.ieee.org/document/8474489)
   - [IEEE _Software_ Volume 35, Issue 5: _Software Engineering: the 50th Anniversary_](https://www.computer.org/csdl/magazine/so/2018/05)
+- Martin Campbell-Kelly: ["The History of the History of Software"](https://ieeexplore.ieee.org/document/4407444)
 - [Paul Graham: "The Roots of Lisp"](https://www.paulgraham.com/rootsoflisp.html)
 - [Michael Mahoney: "Finding a History for Software Engineering"](https://ieeexplore.ieee.org/document/1278847)
   - [IEEE _Annals of the History of Computing_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=85)
